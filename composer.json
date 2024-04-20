@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jcobhams/newsapi": "^1.0",
+        "twbs/bootstrap": "^5.3"
+    }
+}
